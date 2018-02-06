@@ -45,6 +45,7 @@ typedef void(^CompletionHandler)(VNRequest * _Nullable request, NSError * _Nulla
         case DSDetectionTypeTextRectangles:
             detectRequest=[[VNDetectTextRectanglesRequest alloc] initWithCompletionHandler:completionHandler];
             [detectRequest setValue:@(YES) forKey:@"reportCharacterBoxes"];
+            NSLog(@"sbchb");
             break;
         default:
             break;
