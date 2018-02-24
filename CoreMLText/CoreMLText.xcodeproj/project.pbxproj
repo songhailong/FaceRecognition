@@ -19,6 +19,23 @@
 		82C109B41FD671F700751835 /* CoreMLTextTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 82C109B31FD671F700751835 /* CoreMLTextTests.m */; };
 		82C109BF1FD671F700751835 /* CoreMLTextUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 82C109BE1FD671F700751835 /* CoreMLTextUITests.m */; };
 		82C109D21FD6784900751835 /* Resnet50.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 82C109D11FD6784900751835 /* Resnet50.mlmodel */; };
+		82C7DD5E2041563700CEA768 /* Shop@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD4D2041563700CEA768 /* Shop@2x.png */; };
+		82C7DD5F2041563700CEA768 /* 延长收货@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD4E2041563700CEA768 /* 延长收货@2x.png */; };
+		82C7DD602041563700CEA768 /* 延长收货@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD4F2041563700CEA768 /* 延长收货@3x.png */; };
+		82C7DD612041563700CEA768 /* 收--货@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD502041563700CEA768 /* 收--货@2x.png */; };
+		82C7DD622041563700CEA768 /* 收--货@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD512041563700CEA768 /* 收--货@3x.png */; };
+		82C7DD632041563700CEA768 /* 查看物流@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD522041563700CEA768 /* 查看物流@2x.png */; };
+		82C7DD642041563700CEA768 /* 查看物流@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD532041563700CEA768 /* 查看物流@3x.png */; };
+		82C7DD652041563700CEA768 /* 确认收货@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD542041563700CEA768 /* 确认收货@2x.png */; };
+		82C7DD662041563700CEA768 /* 确认收货@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD552041563700CEA768 /* 确认收货@3x.png */; };
+		82C7DD672041563700CEA768 /* 线上支付@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD562041563700CEA768 /* 线上支付@2x.png */; };
+		82C7DD682041563700CEA768 /* 线上支付@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD572041563700CEA768 /* 线上支付@3x.png */; };
+		82C7DD692041563700CEA768 /* 线下支付@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD582041563700CEA768 /* 线下支付@2x.png */; };
+		82C7DD6A2041563700CEA768 /* 线下支付@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD592041563700CEA768 /* 线下支付@3x.png */; };
+		82C7DD6B2041563700CEA768 /* 评--价@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD5A2041563700CEA768 /* 评--价@2x.png */; };
+		82C7DD6C2041563700CEA768 /* 评--价@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD5B2041563700CEA768 /* 评--价@3x.png */; };
+		82C7DD6D2041563700CEA768 /* 货到付款@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD5C2041563700CEA768 /* 货到付款@2x.png */; };
+		82C7DD6E2041563700CEA768 /* 货到付款@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82C7DD5D2041563700CEA768 /* 货到付款@3x.png */; };
 		82CBF5F71FD79A0500AB7B1E /* FaceMarkViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82CBF5F61FD79A0500AB7B1E /* FaceMarkViewController.m */; };
 		82CBF5FC1FD7B74500AB7B1E /* VisionTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 82CBF5FB1FD7B74500AB7B1E /* VisionTool.m */; };
 		82CBF5FF1FD7C30000AB7B1E /* DSDetectData.m in Sources */ = {isa = PBXBuildFile; fileRef = 82CBF5FE1FD7C30000AB7B1E /* DSDetectData.m */; };
@@ -67,6 +84,23 @@
 		82C109CD1FD6729A00751835 /* Vision.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Vision.framework; path = System/Library/Frameworks/Vision.framework; sourceTree = SDKROOT; };
 		82C109CF1FD6731400751835 /* CoreML.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreML.framework; path = System/Library/Frameworks/CoreML.framework; sourceTree = SDKROOT; };
 		82C109D11FD6784900751835 /* Resnet50.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Resnet50.mlmodel; sourceTree = "<group>"; };
+		82C7DD4D2041563700CEA768 /* Shop@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shop@2x.png"; sourceTree = "<group>"; };
+		82C7DD4E2041563700CEA768 /* 延长收货@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "延长收货@2x.png"; sourceTree = "<group>"; };
+		82C7DD4F2041563700CEA768 /* 延长收货@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "延长收货@3x.png"; sourceTree = "<group>"; };
+		82C7DD502041563700CEA768 /* 收--货@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "收--货@2x.png"; sourceTree = "<group>"; };
+		82C7DD512041563700CEA768 /* 收--货@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "收--货@3x.png"; sourceTree = "<group>"; };
+		82C7DD522041563700CEA768 /* 查看物流@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "查看物流@2x.png"; sourceTree = "<group>"; };
+		82C7DD532041563700CEA768 /* 查看物流@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "查看物流@3x.png"; sourceTree = "<group>"; };
+		82C7DD542041563700CEA768 /* 确认收货@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "确认收货@2x.png"; sourceTree = "<group>"; };
+		82C7DD552041563700CEA768 /* 确认收货@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "确认收货@3x.png"; sourceTree = "<group>"; };
+		82C7DD562041563700CEA768 /* 线上支付@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "线上支付@2x.png"; sourceTree = "<group>"; };
+		82C7DD572041563700CEA768 /* 线上支付@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "线上支付@3x.png"; sourceTree = "<group>"; };
+		82C7DD582041563700CEA768 /* 线下支付@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "线下支付@2x.png"; sourceTree = "<group>"; };
+		82C7DD592041563700CEA768 /* 线下支付@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "线下支付@3x.png"; sourceTree = "<group>"; };
+		82C7DD5A2041563700CEA768 /* 评--价@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "评--价@2x.png"; sourceTree = "<group>"; };
+		82C7DD5B2041563700CEA768 /* 评--价@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "评--价@3x.png"; sourceTree = "<group>"; };
+		82C7DD5C2041563700CEA768 /* 货到付款@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "货到付款@2x.png"; sourceTree = "<group>"; };
+		82C7DD5D2041563700CEA768 /* 货到付款@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "货到付款@3x.png"; sourceTree = "<group>"; };
 		82CBF5F51FD79A0500AB7B1E /* FaceMarkViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FaceMarkViewController.h; sourceTree = "<group>"; };
 		82CBF5F61FD79A0500AB7B1E /* FaceMarkViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FaceMarkViewController.m; sourceTree = "<group>"; };
 		82CBF5FA1FD7B74500AB7B1E /* VisionTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VisionTool.h; sourceTree = "<group>"; };
@@ -105,6 +139,7 @@
 		82C1098E1FD671F700751835 = {
 			isa = PBXGroup;
 			children = (
+				82C7DD4C2041563700CEA768 /* 订单 */,
 				82C109991FD671F700751835 /* CoreMLText */,
 				82C109B21FD671F700751835 /* CoreMLTextTests */,
 				82C109BD1FD671F700751835 /* CoreMLTextUITests */,
@@ -170,6 +205,30 @@
 				82C109CD1FD6729A00751835 /* Vision.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		82C7DD4C2041563700CEA768 /* 订单 */ = {
+			isa = PBXGroup;
+			children = (
+				82C7DD4D2041563700CEA768 /* Shop@2x.png */,
+				82C7DD4E2041563700CEA768 /* 延长收货@2x.png */,
+				82C7DD4F2041563700CEA768 /* 延长收货@3x.png */,
+				82C7DD502041563700CEA768 /* 收--货@2x.png */,
+				82C7DD512041563700CEA768 /* 收--货@3x.png */,
+				82C7DD522041563700CEA768 /* 查看物流@2x.png */,
+				82C7DD532041563700CEA768 /* 查看物流@3x.png */,
+				82C7DD542041563700CEA768 /* 确认收货@2x.png */,
+				82C7DD552041563700CEA768 /* 确认收货@3x.png */,
+				82C7DD562041563700CEA768 /* 线上支付@2x.png */,
+				82C7DD572041563700CEA768 /* 线上支付@3x.png */,
+				82C7DD582041563700CEA768 /* 线下支付@2x.png */,
+				82C7DD592041563700CEA768 /* 线下支付@3x.png */,
+				82C7DD5A2041563700CEA768 /* 评--价@2x.png */,
+				82C7DD5B2041563700CEA768 /* 评--价@3x.png */,
+				82C7DD5C2041563700CEA768 /* 货到付款@2x.png */,
+				82C7DD5D2041563700CEA768 /* 货到付款@3x.png */,
+			);
+			path = "订单";
 			sourceTree = "<group>";
 		};
 		82CBF6041FD7D14F00AB7B1E /* Tool */ = {
@@ -294,10 +353,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82C7DD622041563700CEA768 /* 收--货@3x.png in Resources */,
+				82C7DD662041563700CEA768 /* 确认收货@3x.png in Resources */,
+				82C7DD672041563700CEA768 /* 线上支付@2x.png in Resources */,
+				82C7DD6E2041563700CEA768 /* 货到付款@3x.png in Resources */,
+				82C7DD5F2041563700CEA768 /* 延长收货@2x.png in Resources */,
 				82C109A71FD671F700751835 /* LaunchScreen.storyboard in Resources */,
 				82C109A41FD671F700751835 /* Assets.xcassets in Resources */,
+				82C7DD642041563700CEA768 /* 查看物流@3x.png in Resources */,
+				82C7DD5E2041563700CEA768 /* Shop@2x.png in Resources */,
 				826BA7AC1FD93CC8003E9C56 /* face.png in Resources */,
+				82C7DD692041563700CEA768 /* 线下支付@2x.png in Resources */,
+				82C7DD652041563700CEA768 /* 确认收货@2x.png in Resources */,
+				82C7DD682041563700CEA768 /* 线上支付@3x.png in Resources */,
+				82C7DD632041563700CEA768 /* 查看物流@2x.png in Resources */,
+				82C7DD6D2041563700CEA768 /* 货到付款@2x.png in Resources */,
+				82C7DD6C2041563700CEA768 /* 评--价@3x.png in Resources */,
+				82C7DD6A2041563700CEA768 /* 线下支付@3x.png in Resources */,
 				82C109A21FD671F700751835 /* Main.storyboard in Resources */,
+				82C7DD6B2041563700CEA768 /* 评--价@2x.png in Resources */,
+				82C7DD602041563700CEA768 /* 延长收货@3x.png in Resources */,
+				82C7DD612041563700CEA768 /* 收--货@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
